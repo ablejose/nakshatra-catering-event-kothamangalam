@@ -1,0 +1,57 @@
+{
+  "slug": "nakshatra-catering-event-kothamangalam",
+  "name": "Nakshatra Catering & Event",
+  "shortName": "Nakshatra",
+  "descriptor": "Catering & Events",
+  "address": "Krishnapuram Rd, Ponnurunni, Vyttila, Ernakulam, Kochi, Keralam 682019",
+  "area": "Ernakulam",
+  "city": "Kochi",
+  "district": "Ernakulam",
+  "region": "Kerala",
+  "postalCode": "682019",
+  "geo": {
+    "lat": 9.973116899999999,
+    "lng": 76.3174859
+  },
+  "mapsLink": "https://maps.google.com/?cid=5761475294041585295",
+  "phone": "+91 97470 78787",
+  "whatsapp": "919747078787",
+  "hours": "Open 12 pm – 3:30 pm · closed Sun",
+  "opens": "12:00",
+  "closes": "15:30",
+  "rating": 4.3,
+  "reviewCount": 1625,
+  "reviews": [
+    {
+      "name": "Anooj C Justin",
+      "rating": 5,
+      "quote": "I ordered a non-veg sadhya for my entire office, and it was absolutely marvellous. Every single dish had its own unique character and flavour. The Chemmeen Chammanthi was especially outstanding. The pricing was reasonable, and their professional approach deserves appreciation as well."
+    },
+    {
+      "name": "Akhil Alappattu",
+      "rating": 5,
+      "quote": "Went in for lunch after hearing quite a bit of hype, and the place definitely pulls a crowd. Reached around noon and had to wait a bit to get a seat - not surprising given how busy it gets. Tried the veg meals served on vazhayila, which was both tasty and filling. The flavors were on point and felt very satisfying overall."
+    },
+    {
+      "name": "Sajin KS",
+      "rating": 4,
+      "quote": "Went there after I saw a reel. Very affordable lunch and specials. I had a lunch along with a mackerel curry and beef roast and it came to 370 total. Food is good but nothing spectacular. Service is extremely fast and responsive."
+    },
+    {
+      "name": "Tiya Jose",
+      "rating": 5,
+      "quote": "We had a great lunch at Nakshatra Caterers. Their traditional Kerala meals served on a vazha ela (banana leaf) were delicious and very satisfying. We tried the meals, Ayala Fry, Beef Ularthu, and Payasam, and every dish was flavorful with generous portions. The service was excellent and very quick."
+    },
+    {
+      "name": "Sreelesh Unnikrishnan",
+      "rating": 5,
+      "quote": "Excellent meals with amazing special side dishes! Everything was fresh, tasty, and satisfying. Easily one of the best meal spots around. Highly recommended! ❤️😋"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://nakshatra-catering-event-kothamanga.vercel.app"
+}
